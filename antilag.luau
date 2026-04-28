@@ -1,6 +1,4 @@
---[[
-	WARNING: Heads up! This script has not been verified by ScriptBlox. Use at your own risk!
-]]
+
 local l=game:GetService("Lighting")
 local p=game:GetService("Players")
 local t=workspace:FindFirstChildOfClass("Terrain")
